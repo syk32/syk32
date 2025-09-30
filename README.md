@@ -1,6 +1,6 @@
 <div align="center">
    
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&fontColor=ffffff&text=SoYeon's+Profile)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&fontColor=ffffff&height=225&text=SoYeon's+Profile&fontSize=60)
 </div>
 
 ## 🌱 Profile 
