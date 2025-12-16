@@ -3,8 +3,8 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&fontColor=ffffff&height=225&text=SoYeon's+Profile&fontSize=60)
 </div>
 
-<a href="https://syk32.github.io" >
-  <img src="https://img.shields.io/badge/GitHub%20Blog-Visit-blue?style=for-the-badge" />
+<a href="https://syk32.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/SYK32.GITHUB.IO-blue?style=for-the-badge" />
 </a>
 
 ## 🌱 Profile 
