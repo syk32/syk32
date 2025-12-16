@@ -3,6 +3,10 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&fontColor=ffffff&height=225&text=SoYeon's+Profile&fontSize=60)
 </div>
 
+<a href="https://syk32.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Blog-Visit-blue?style=for-the-badge" />
+</a>
+
 ## 🌱 Profile 
 
 안녕하세요, 끈기와 자기주도 학습으로 성장하는 개발자 김소연입니다.
