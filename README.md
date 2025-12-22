@@ -7,7 +7,7 @@
 
 안녕하세요, 끈기와 자기주도 학습으로 성장하는 개발자 김소연입니다.
 
-### 🔗 myblog
+### 🔗 WEB PROFILE
 <a href="https://syk32.github.io" target="_blank">
   <img src="https://img.shields.io/badge/syk32.github.io-blue?style=for-the-badge" />
 </a>
